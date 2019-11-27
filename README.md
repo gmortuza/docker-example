@@ -1,7 +1,9 @@
-# Docker-example
+# Docker example
 A simple python app that uses docker. 
 This app shows how to set the environment variable in Dockerfile and use it inside the container.
+
 It also shows to take the user input form the host terminal inside the docker container.
+
 At the last step we copied a file from the docker container to the host using docker cp command
 
 ## Build
